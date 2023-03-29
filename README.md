@@ -1,7 +1,7 @@
 # Profile
 
 <h1 align="center">Hi 👋, I'm Kowcika Asaithambi</h1>
-<h3 align="center">Thorough and meticulous Data Analyst passionate about helping businesses succeed.</h3>
+<h3 align="center">Passionate about sharing Knowledge as it creates a positive impact on the society.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
