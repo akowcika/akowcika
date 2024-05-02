@@ -7,9 +7,9 @@
 
 <h3 align="left">My recent projects:</h3>
 <p align="left">
-<a href="https://dataanalysisinterviewcourse.s3.us-west-1.amazonaws.com/data-analysis-interview-preparation-guide-raw-R6P2uqZt/content/index.html#/"></a>
-<a href="https://linkedinhighlights.s3.us-west-1.amazonaws.com/content/index.html#/"></a>
-<a href="https://kowcikacourse.s3.us-west-1.amazonaws.com/web-scraping-raw-b00woDl8/content/index.html#/"></a>
+<a href="https://dataanalysisinterviewcourse.s3.us-west-1.amazonaws.com/data-analysis-interview-preparation-guide-raw-R6P2uqZt/content/index.html#/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://dataanalysisinterviewcourse.s3.us-west-1.amazonaws.com/data-analysis-interview-preparation-guide-raw-R6P2uqZt/content/index.html" height="30" width="40" /></a>
+<a href="https://linkedinhighlights.s3.us-west-1.amazonaws.com/content/index.html#/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedinhighlights.s3.us-west-1.amazonaws.com/content/index.html#/" height="30" width="40" /></a>
+<a href="https://kowcikacourse.s3.us-west-1.amazonaws.com/web-scraping-raw-b00woDl8/content/index.html#/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://kowcikacourse.s3.us-west-1.amazonaws.com/web-scraping-raw-b00woDl8/content/index.html#/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
